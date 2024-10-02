@@ -11,7 +11,7 @@
 
 - 🔭 I've completed my graduation in Electrical & Electronics Engineering from **Bapatla Engineering college,Bapatla**.
 
-- 🌱 I’m currently learning Data Analyst.
+- 🌱 I’m currently learning Data Analysis.
 
 - 👯 I’m looking to collaborate on OpenSource Projects
 
