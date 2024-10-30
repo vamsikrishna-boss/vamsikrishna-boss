@@ -24,7 +24,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vamsikrishnasharma/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsi-krishna-n-95756b322)
 <a href="https://www.linkedin.com/in/vamsi-krishna-n-95756b322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vamsi-krishna-n-95756b322" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vamsikrishnasharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vamsikrishnasharma" height="30" width="40" /></a>
 
