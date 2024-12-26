@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Vamsi Krishna Sharma </h1>
-<h3 align="center">👨🏻‍💻 I'm a BI Developer from India.</h3>
+<h3 align="center">👨🏻‍💻 I'm a Data Analyst from India.</h3>
 <img align="right" alt="Coading" width="400" src="https://kingriver.co/wp-content/uploads/2024/04/imm-web3-copy-1024x772.png"
 
 
@@ -11,7 +11,7 @@
 
 - 🔭 I've completed my graduation in Electrical & Electronics Engineering from **Bapatla Engineering college,Bapatla**.
 
-- 🌱 I’m currently learning Data Analysis.
+- 🌱 I’m currently Working in Ellipse Technology,Ex-LTIMindtree.
 
 - 👯 I’m looking to collaborate on OpenSource Projects
 
