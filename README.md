@@ -3,15 +3,15 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Vamsi Krishna Sharma </h1>
+<h4 align="center">I am a passionate Data Analyst with over 3+ years of experience transforming raw data into actionable insights through interactive dashboards and reports. I specialize in modern BI tools such as Power BI, Tableau, SQL Server, and Microsoft Excel, and I have hands-on experience integrating with cloud platforms like Azure Data Factory, Azure Synapse Analytics, and Databricks. I'm also skilled in data modeling, DAX, and performance optimization, enabling the creation of scalable, user-friendly BI solutions. A continuous learner, I stay current with the latest trends in analytics and BI to deliver value-driven solutions..</h4>
+
 <h3 align="center">👨🏻‍💻 I'm a Data Analyst from India.</h3>
 <img align="right" alt="Coading" width="400" src="https://kingriver.co/wp-content/uploads/2024/04/imm-web3-copy-1024x772.png"
 
 
 # 🙋‍♂️ About Me
 
-- 🔭 I've completed my graduation in Electrical & Electronics Engineering from **Bapatla Engineering college,Bapatla**.
-
-- 🌱 I’m currently Working in Ellipse Technology,Ex-LTIMindtree.
+- 🌱 I’m currently Working In Technet Limited,Ex-LTIMindtree.
 
 - 👯 I’m looking to collaborate on OpenSource Projects
 
@@ -20,6 +20,8 @@
 - 👨‍💻 Capable of implementing Power Bi Reports and Dashboards.
  
 - 📫 How to reach me 📧 _infvamsibi@gmail.com_.
+
+- 💬 LinkedIn **https://www.linkedin.com/in/vamsikrishnann/**
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
