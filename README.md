@@ -6,7 +6,7 @@
 <h4 align="center">I am a passionate Data Analyst with over 3+ years of experience transforming raw data into actionable insights through interactive dashboards and reports. I specialize in modern BI tools such as Power BI, Tableau, SQL Server, and Microsoft Excel, and I have hands-on experience integrating with cloud platforms like Azure Data Factory, Azure Synapse Analytics, and Databricks. I'm also skilled in data modeling, DAX, and performance optimization, enabling the creation of scalable, user-friendly BI solutions. A continuous learner, I stay current with the latest trends in analytics and BI to deliver value-driven solutions..</h4>
 
 <h3 align="center">👨🏻‍💻 I'm a Data Analyst from India.</h3>
-<img align="right" alt="Coading" width="400" src="https://kingriver.co/wp-content/uploads/2024/04/imm-web3-copy-1024x772.png"
+<img align="right" alt="Coading" width="400" src="https://github.com/vamsikrishna-boss/vamsikrishna-boss/blob/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f312a7a566e574a7479474f585f6b5549446d3663634366512e676966.gif"
 
 
 # 🙋‍♂️ About Me
