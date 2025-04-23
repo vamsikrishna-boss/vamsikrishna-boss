@@ -11,7 +11,7 @@
 
 # 🙋‍♂️ About Me
 
-- 🌱 I’m currently Working Data Analyst @ In Technet Limited,Ex-LTIMindtree.
+- 🌱 I’m currently Working Data Analyst @Capgemini,Ex-LTIMindtree.
 
 - 👯 I’m looking to collaborate on OpenSource Projects
 
